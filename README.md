@@ -1,3 +1,3 @@
 # TelegramBot
-Telegram bot making routes.
-This bot can make route from use to sight in Ekaterinburg.
+Telegram bot which makes routes.
+This bot can make route from user to sight in Ekaterinburg.
